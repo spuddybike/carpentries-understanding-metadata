@@ -15,7 +15,7 @@ carpentry: 'incubator'
 
 # Custom carpentry description
 # This will be used as the alt text for the logo
-carpentry_description: "Understanding Metadata"
+carpentry_description: "Understanding Metadata testing"
 
 # Overall title for pages.
 title: 'Understanding Metadata' # FIXME
