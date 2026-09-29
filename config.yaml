@@ -3,7 +3,7 @@
 #------------------------------------------------------------
 
 # Which carpentry is this (dc, hpcc, lc, swc, or cp)?
-# dc: Data Carpentry
+dc: Data Carpentry
 # hpcc: HPC Carpentry
 # lc: Library Carpentry
 # swc: Software Carpentry
@@ -15,16 +15,16 @@ carpentry: 'incubator'
 
 # Custom carpentry description
 # This will be used as the alt text for the logo
-# carpentry_description: "Custom Carpentry"
+carpentry_description: "Understanding Metadata"
 
 # Overall title for pages.
-title: 'Lesson Title' # FIXME
+title: 'Understanding Metadata' # FIXME
 
 # Date the lesson was created (YYYY-MM-DD, this is empty by default)
-created: ~ # FIXME
+created: 2026-10-01 # FIXME
 
 # Comma-separated list of keywords for the lesson
-keywords: 'software, data, lesson, The Carpentries' # FIXME
+keywords: 'metadata, lesson, The Carpentries' # FIXME
 
 # Life cycle stage of the lesson
 # refer to <https://docs.carpentries.org/resources/curriculum/lesson-life-cycle.html> for details
@@ -41,7 +41,7 @@ source: 'https://github.com/carpentries/workbench-template-md' # FIXME
 branch: 'main'
 
 # Who to contact if there are any issues
-contact: 'team@carpentries.org' # FIXME
+contact: 'closer@ucl.ac.uk' # FIXME
 
 # Navigation ------------------------------------------------
 #
